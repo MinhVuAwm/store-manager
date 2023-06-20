@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,phone,email,address
+1,Nguyễn,Văn A,0123456789,a.nguyen@gmail.com,123 Lê Lợi TP Hồ Chí Minh
+2,Trần,Thị B,0987654321,b.tran@hotmail.com,456 Nguyễn Du Hà Nội
+3,Phạm,Thị C,0379512846,c.pham@yahoo.com,789 Lý Thường Kiệt Đà Nẵng
+4,Lê,Văn D,0901234567,d.le@gmail.com,12A Trần Phú TP Hồ Chí Minh
+5,Hoàng,Ngọc E,0912345678,e.hoang@hotmail.com,23B Lê Duẩn Hà Nội
+6,Vũ,Ngọc F,0934567890,f.vu@yahoo.com,34C Điện Biên Phủ TP Hồ Chí Minh
+7,Đỗ,Thị G,0971234567,g.do@gmail.com,45D Nguyễn Thị Minh Khai Hà Nội
+8,Huỳnh,Minh H,0912349876,h.huynh@hotmail.com,56E Cộng Hòa Đà Nẵng
+9,Phan,Thanh I,0998765432,i.phan@gmail.com,67F Hai Bà Trưng TP Hồ Chí Minh
+10,Bùi,Quang J,0987651234,j.bui@yahoo.com,78G Giải Phóng Hà Nội
+11,Dương,Quốc K,0945678912,k.duong@yahoo.com,91H Lê Hồng Phong TP Hồ Chí Minh
+12,Võ,Thị L,0971987654,l.vo@gmail.com,102I Trần Hưng Đạo Hà Nội
+13,Ngô,Minh M,0954321987,m.ngo@hotmail.com,113J Lê Đại Hành Đà Nẵng
+14,Phùng,Thị N,0991236547,n.phung@gmail.com,124K Nguyễn Văn Cừ TP Hồ Chí Minh
+15,Đặng,Quang O,0987654321,o.dang@yahoo.com,135L Trần Quốc Toản Hà Nội

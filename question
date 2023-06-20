@@ -1,0 +1,41 @@
+1. Câu hỏi về SQL (5 câu):
+
+	a. Liệt kê tên và số lượng sản phẩm theo danh mục.
+
+	b. Tính tổng doanh thu bán hàng theo ngày.
+
+	c. Tìm khách hàng đã mua hàng nhiều nhất (tính theo số lượng đơn hàng).
+
+	d. Liệt kê tên sản phẩm, số lượng và tổng tiền của đơn hàng có ID là 10.
+
+	e. Tìm tên sản phẩm, số lượng tồn kho và tên nhà cung cấp.
+
+Câu hỏi về Pandas (5 câu):
+
+	a. Tính tổng doanh thu bán hàng theo tháng.
+
+	b. Liệt kê tên và số lượng sản phẩm theo danh mục sử dụng dataframe.
+
+	c. Tìm khách hàng có tổng số tiền mua hàng lớn nhất.
+
+	d. Liệt kê các đơn hàng có tổng giá trị lớn hơn 300,000.
+
+	e. Tính trung bình giá trị đơn hàng theo từng khách hàng.
+
+Câu hỏi vẽ biểu đồ bằng Python (5 câu):
+
+	a. Vẽ biểu đồ cột (bar chart) thể hiện doanh thu bán hàng theo ngày.
+
+	b. Vẽ biểu đồ tròn (pie chart) thể hiện tỷ lệ tổng tiền mua hàng của từng khách hàng.
+
+	c. Vẽ biểu đồ đường (line chart) thể hiện số lượng sản phẩm bán được theo thời gian.
+
+	d. Vẽ biểu đồ cột xếp chồng (stacked bar chart) thể hiện doanh thu theo danh mục sản phẩm và thời gian.
+
+	e. Vẽ biểu đồ phân tán (scatter plot) thể hiện mối quan hệ giữa số lượng sản phẩm bán được và giá bán.
+
+Câu hỏi tổng hợp làm báo cáo cho những dữ liệu trên (1 câu):
+
+Tổng hợp dữ liệu về doanh thu, số lượng sản phẩm bán được theo danh mục, khách hàng tiêu biểu, 
+và các xu hướng bán hàng theo thời gian, để đưa ra các đánh giá về hiệu quả hoạt động kinh doanh và đề 
+xuất các chiến lược phát triển kinh doanh trong tương lai.

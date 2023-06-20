@@ -1,0 +1,16 @@
+product_id,product_name,category_id,description,unit_price,quantity_in_stock
+1,Cà chua,1,Loại cà chua đỏ,20000,100
+2,Dưa hấu,1,Loại dưa hấu to,50000,50
+3,Khoai tây,2,Khoai tây nhập khẩu,30000,200
+4,Cà rốt,2,Cà rốt tươi,15000,150
+5,Hành tây,2,Hành tây đỏ,25000,120
+6,Bí đỏ,1,Loại bí đỏ to,40000,80
+7,Ổi,1,Ổi tươi ngọt,15000,150
+8,Ớt chuông,2,Ớt chuông màu xanh,35000,100
+9,Bông cải xanh,2,Bông cải xanh tươi,20000,120
+10,Bắp cải,2,Bắp cải trắng,18000,130
+11,Táo,1,Táo nhập khẩu,60000,75
+12,Lê,1,Lê nhập khẩu,55000,90
+13,Cải thìa,2,Cải thìa tươi,17000,140
+14,Bí ngô,2,Bí ngô to,40000,70
+15,Đậu Hà Lan,2,Đậu Hà Lan tươi,45000,110

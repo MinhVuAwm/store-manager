@@ -1,0 +1,7 @@
+supplier_id,supplier_name,phone,email,address
+1,Công ty TNHH MTV Nông sản A,0123456789,a.supplier@gmail.com,123 Lê Lợi TP Hồ Chí Minh
+2,Công ty TNHH MTV Nông sản B,0987654321,b.supplier@hotmail.com,456 Nguyễn Du Hà Nội
+3,Công ty TNHH MTV Nông sản C,0129876543,c.supplier@gmail.com,789 Lý Thường Kiệt TP Hồ Chí Minh
+4,Công ty TNHH MTV Nông sản D,0987123456,d.supplier@hotmail.com,89A Nguyễn Trãi Hà Nội
+5,Công ty TNHH MTV Nông sản E,0345678912,e.supplier@gmail.com,145M Lê Lợi TP Hồ Chí Minh
+6,Công ty TNHH MTV Nông sản F,0912345678,f.supplier@hotmail.com,156N Nguyễn Du Hà Nội
